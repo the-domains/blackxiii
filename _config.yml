@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.5268817
+color:
+  saturation: 0.6004232
+  lightness: 0.1335699
+  brandStrength: 1
+  brandColors:
+    - '#000000'
+    - '#FFFEF9'
+    - '#FB916B'
+    - '#9250B0'
+    - '#90400D'
+  rhythmicContrast: 0.9024428
+name: BlackXIII
