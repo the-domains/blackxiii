@@ -1,14 +1,26 @@
-layout_spectrum: 1
-typography_spectrum: 0.5268817
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.529511
 color:
-  saturation: 0.6004232
-  lightness: 0.1335699
+  saturation: 0.4789207
   brandStrength: 1
+  lightness: 0
   brandColors:
     - '#000000'
     - '#FFFEF9'
     - '#FB916B'
     - '#9250B0'
     - '#90400D'
-  rhythmicContrast: 0.9024428
+  rhythmicContrast: 1
+layout_spectrum: 0.5101181
 name: BlackXIII
